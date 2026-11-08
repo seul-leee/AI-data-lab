@@ -9,4 +9,4 @@ Each HTML page now includes its own styles and images. A missing assets folder w
 5. Commit changes to main.
 6. Settings > Pages > Deploy from a branch > main > / (root) > Save.
 
-Portraits and student biographies are explicitly labeled examples, not actual members. Replace before public use. For later design changes, edit site.css and re-embed its contents in each page, or ask for an updated package.
+Student portraits are intentionally blank. Robbie Reamer’s biography is supplied by the site owner; Mayukha Mulpuru and Michelle Fraginals have name-only profiles. For later design changes, edit site.css and re-embed its contents in each page, or ask for an updated package.
