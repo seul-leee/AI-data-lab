@@ -99,3 +99,23 @@ html{scroll-behavior:smooth;scroll-padding-top:24px}body{margin:0;background:#fa
 
 #adl-preview .adl-student-photo img.adl-real-portrait{left:0;width:100%;height:100%;object-fit:cover;object-position:center top}
 #adl-preview .adl-student-photo img{object-position:center 20%}
+
+#adl-preview .adl-feature-icon{width:44px;height:44px;color:var(--adl-wine);margin-bottom:24px;display:block}
+#adl-preview .adl-feature-icon svg{display:block;width:100%;height:100%;stroke:currentColor;fill:none;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round}
+#adl-preview .adl-areas h3{font-size:25px;line-height:1.35}#adl-preview .adl-areas p{font-size:17px;line-height:1.75;max-width:34ch}
+#adl-preview .adl-projects .adl-project{grid-template-columns:64px 1fr auto;gap:24px;padding-block:26px}
+#adl-preview .adl-projects .adl-project .adl-feature-icon{margin:0;width:44px;height:44px}
+#adl-preview .adl-projects .adl-project h3{font-size:25px;margin-bottom:8px}
+#adl-preview .adl-projects .adl-project p{font-size:16px;line-height:1.7;max-width:55ch}
+#adl-preview .adl-home-project .adl-feature-icon{width:34px;height:34px;margin-bottom:18px}
+#adl-preview .adl-home-project h3{font-size:24px}
+#adl-preview .adl-team-preview{padding:48px 5%;border-top:1px solid var(--adl-rule)}
+#adl-preview .adl-team-preview-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px}
+#adl-preview .adl-team-preview-grid .adl-student-photo{aspect-ratio:1/1}
+#adl-preview .adl-team-preview-grid p{font-size:14px;color:var(--adl-muted);margin-top:12px}
+#adl-preview .adl-research-heading .adl-feature-icon{width:36px;height:36px;margin-bottom:18px}
+#adl-preview .adl-hero .adl-lead{max-width:45ch;font-size:20px;line-height:1.75}
+#adl-preview .adl-roster-heading>p{font-size:12px}
+@media(max-width:650px){#adl-preview .adl-projects .adl-project{grid-template-columns:44px minmax(0,1fr);gap:16px}#adl-preview .adl-projects .adl-project>a{grid-column:2}#adl-preview .adl-team-preview-grid{gap:12px}#adl-preview .adl-team-preview{padding-inline:6%}#adl-preview .adl-team-preview-grid p{font-size:12px}}
+
+#adl-preview .adl-projects .adl-project>.adl-feature-icon{display:block}#adl-preview .adl-projects .adl-project>div{min-width:0}
