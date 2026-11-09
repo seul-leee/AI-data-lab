@@ -16,3 +16,14 @@ People profile images are decorative research illustrations, not student likenes
 Research now has Current Projects and Selected Work. selected-work.html contains seven publications, nineteen talks/workshops supplied by the site owner. References are transcribed and lightly standardized; no roles, funding amounts or presentation links were invented. Image sources and license details are in IMAGE-CREDITS.md.
 
 DH-Workshop now links to dh-workshop.html. It displays the live original tutorial in an iframe and includes an external fallback link. The original Mobirise site must remain online. Research Funding has been removed from Selected Work.
+
+## Structured data
+
+English JSON-LD now identifies The AI Data Lab, founder Seul Lee, her affiliation with Florida State University, and her official FSU directory page. Final canonical URLs and sitemap require the actual public homepage URL. No example domain or invented deployment URL has been inserted.
+
+## Live SEO configuration
+
+Canonical homepage: https://seul-leee.github.io/AI-data-lab/
+Sitemap: https://seul-leee.github.io/AI-data-lab/sitemap.xml
+
+Upload sitemap.xml and all updated HTML files. In Google Search Console, add the URL-prefix property https://seul-leee.github.io/AI-data-lab/ and complete ownership verification. Submit sitemap.xml only after deployment. The empty project-archive.html page is not listed in the sitemap.
