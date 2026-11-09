@@ -1,37 +1,189 @@
 {
- "publications":[
- {"authors":"Lee, S.","year":"2026","title":"Metadata-Conditioned Moral Grammars: How AI Companies Define Responsibility, Moral Language, Value Hierarchies, and Governance in AI Policy Documents.","venue":"Proceedings of the International Conference on Dublin Core and Metadata Applications, 2026.","url":"https://doi.org/10.23106/dcmi.952683529"},
- {"authors":"Lee, S.","year":"2026","title":"A Process-Oriented AI Literacy Education Grounded in Generative AI Mechanisms.","venue":"Journal of Korean Library and Information Science Society.","url":"https://journal.kci.go.kr/liss/archive/articleView?artiId=ART003318081"},
- {"authors":"Lee, S., & Cho, S. H.","year":"2025","title":"Forgotten ‘American Ghosts’: Technical and Ethical Issues in Digitizing Oral Histories of Early Immigrant Communities.","venue":"In Tamara Štefanac & Anne Gilliland (Eds.), Archives and Traces of Migration (AToM): A Handbook of Best Practices (pp. 329–345). ICARUS Croatia.","url":"https://www.researchgate.net/publication/391903744_Archives_and_Traces_of_Migration_A_Handbook_of_Best_Practices","link_label":"View handbook"},
- {"authors":"Lee, S., & Gilliland, A.","year":"2024","title":"Evolving Definitions of Hate Speech: The Impact of a Lack of Standardized Definitions.","venue":"In Isaac Sserwanga, Hideo Joho, Jie Ma, Preben Hansen, Dan Wu, Masanori Koizumi, & Anne J. Gilliland (Eds.), iConference 2024 Wisdom, Well-Being, Win-Win (pp. 141–156). Springer Cham.","url":"http://dx.doi.org/10.1007/978-3-031-57860-1_11"},
- {"authors":"Lee, S.","year":"2024","title":"Navigating Biases Embedded Within the Algorithms and Displays Used by Different Search Engines.","venue":"In A. Solodkaya, A. Peterson, & M. Salisbury (Eds.), DLFTeach Toolkit Volume 4: Critical Digital Literacy. DLFteach Publications.","url":"https://dlfteach.pubpub.org/pub/sqa3ki79"},
- {"authors":"Lee, S.","year":"2023","title":"Understanding the Intricacies of Academic Search Engines.","venue":"In Serena Dewar (Ed.), Digital Humanities Congress 2022. Sheffield, UK: The Digital Humanities Institute.","url":"https://www.dhi.ac.uk/books/dhc2022/understanding-the-intricacies-of-academic-search-engines/"},
- {"authors":"Lee, S.","year":"2021","title":"Inherent Biases and Complexities of the Use of Historical Digital Archives: Bibliometric Analysis in Digital Archives of Holocaust Victims.","venue":"InterActions: UCLA Journal of Education and Information Studies, 17(1).","url":"https://doi.org/10.5070/D417154037"}
- ],
- "talks":[
- {"authors":"Lee, S.","date":"October 2026","year":"2026","title":"Developing Scalable Educational Frameworks for Responsible AI Use in Florida Higher Education.","venue":"Presentation at the Florida Digital Humanities Consortium (FLDH) 2026 Conference, St. Petersburg, FL."},
- {"authors":"Lee, S.","date":"September 2026","year":"2026","title":"AI Literacy for Navigating Bias.","venue":"Presentation at the Fall 2026 ACM Seminar (Applied & Computational Mathematics Seminar), FSU Department of Mathematics, Tallahassee, FL."},
- {"authors":"Lee, S.","date":"September 2026","year":"2026","title":"AI Education Policy: A Comparative Thematic Analysis of K-12 Guidance in the United States and the United Kingdom.","venue":"Presentation at the Digital Humanities Congress 2026, Sheffield, UK."},
- {"authors":"Lee, S.","date":"August 2026","year":"2026","title":"Can You Really Tell What’s AI? AI Literacy for Navigating Bias, Mis/disinformation, and Fake News.","venue":"Presentation at the AI Bootcamp, FSU Chemistry Department, Tallahassee, FL."},
- {"authors":"Lee, S.","date":"August 2026","year":"2026","title":"Metadata-Conditioned Moral Grammars: How AI Companies Define Responsibility, Moral Language, Value Hierarchies, and Governance in AI Policy Documents.","venue":"Presentation at the 24th International Conference on Dublin Core and Metadata Initiative (DCMI) 2026, Seoul, South Korea."},
- {"authors":"Lee, S.","date":"June 2026","year":"2026","title":"Libraries as Infrastructures of AI Literacy: Reframing AI Literacy Education as a Process-Oriented Practice.","venue":"Presentation at the 2026 Summer International Conference of the Korean Library and Information Science Society (K-LISS), Daegu, South Korea."},
- {"authors":"Marty, P., Choi, G. W., Adams, J., Erlebacher, G., & Lee, S.","date":"March 2026","year":"2026","title":"Panel on AI and education.","venue":"Workshop delivered at the FSU SC Artificial Intelligence Seminar, Tallahassee, FL."},
- {"authors":"Galloway, B., Green, L., & Lee, S.","date":"November 2025","year":"2025","title":"Youth, Identity, and Extremism.","venue":"Workshop delivered at the Pacific Council on International Policy."},
- {"authors":"Daly, D., Jarrette, K., & Lee, S.","date":"November 2025","year":"2025","title":"Sketches for Skepticism Workshop.","venue":"Workshop delivered at iConference 2025, Bloomington, IN."},
- {"authors":"Lee, S.","date":"May 2025","year":"2025","title":"Information as infrastructure, libraries as infrastructures of trust: Mis/disinformation & community needs during uncertain times.","venue":"Presentation at the Chinese American Librarians Association Southeast and Southwest Chapters Annual Virtual Conference 2025."},
- {"authors":"Lee, S.","date":"April 2025","year":"2025","title":"Gatekeeping in Academic Publishing: The Impact of Sample Size Norms on Underfunded Individual Researchers.","venue":"Presentation at the 4th Annual UCLA European Languages and Transcultural Studies (ELTS) Graduate Conference, UCLA European Languages & Transcultural Studies, Canadian Studies Program, Los Angeles, CA."},
- {"authors":"Lee, S., & Ong, C.","date":"December 2024","year":"2024","title":"The Social Media and the Spread of Hate (SMASH) Project.","venue":"Workshop delivered at the UCLA Information Studies Colloquium 2024, Los Angeles, CA."},
- {"authors":"Lee, S.","date":"October 2024","year":"2024","title":"Fairness and Bias in AI Algorithms and Interfaces.","venue":"Workshop delivered at the 2024 ALISE ACADEMY (Workshop) Annual Conference, Portland, OR."},
- {"authors":"Lee, S.","date":"August 2024","year":"2024","title":"Digital Pedagogy and The Post-Truth Society: Evaluating The Credibility of Information.","venue":"Presentation at the 10th Annual Digital Pedagogy Institute (DPI) Conference."},
- {"authors":"Lee, S.","date":"August 2024","year":"2024","title":"Untold Stories, Untraveled Paths: Exploring Oral Histories & Micro-Mobility Innovations.","venue":"Workshop delivered at the Association for Information Science and Technology (ASIS&T)."},
- {"authors":"Lee, S.","date":"August 2024","year":"2024","title":"Youth In The Digital Age: The Subtler Truth Of Adolescents’ Online Hate Speech and Cyberbullying and The Role of Digital Literacy.","venue":"Workshop delivered at the Pacific Neighborhood Consortium (PNC), Seoul, South Korea."},
- {"authors":"Lee, S.","date":"March 2024","year":"2024","title":"Evolving Definitions of Hate Speech: The Impact of a Lack of Standardized Definitions.","venue":"Presentation at iConference 2024: Wisdom, Well-being, Win-win."},
- {"authors":"Lee, S.","date":"July 2023","year":"2023","title":"A Journey from Many to One through the Early Korean American Community Archive.","venue":"Delivered at the UCLA Library International Council."},
- {"authors":"Lee, S.","date":"September 2022","year":"2022","title":"Addressing Inherent Biases in Information Retrieval Systems of Digital Archives.","venue":"Presentation at the Digital Humanities Congress 2022, Sheffield, UK."}
- ],
- "funding":[
- {"authors":"Lee, S.","year":"2026","title":"First Year Assistant Professor (FYAP) Grant: Collaborative Engagement with Generative AI.","venue":"Funded by the FSU Council on Research and Creativity."},
- {"authors":"Lee, S.","year":"2025","title":"The Cyber Hate and Antisemitism on Social Media (CHASM) Project.","venue":"Funded by the UCLA Alan D. Leve Center for Jewish Studies and the UCLA Initiative to Study Hate (ISH)."},
- {"authors":"The Social Media and the Spread of Hate (SMASH) Team.","year":"2024","title":"The Social Media and the Spread of Hate (SMASH) Project.","venue":"Funded by the UCLA Initiative to Study Hate (ISH)."}
- ]
+  "publications": [
+    {
+      "authors": "Lee, S.",
+      "year": "2026",
+      "title": "Metadata-Conditioned Moral Grammars: How AI Companies Define Responsibility, Moral Language, Value Hierarchies, and Governance in AI Policy Documents.",
+      "venue": "Proceedings of the International Conference on Dublin Core and Metadata Applications, 2026.",
+      "url": "https://doi.org/10.23106/dcmi.952683529"
+    },
+    {
+      "authors": "Lee, S.",
+      "year": "2026",
+      "title": "A Process-Oriented AI Literacy Education Grounded in Generative AI Mechanisms.",
+      "venue": "Journal of Korean Library and Information Science Society.",
+      "url": "https://journal.kci.go.kr/liss/archive/articleView?artiId=ART003318081"
+    },
+    {
+      "authors": "Lee, S., & Cho, S. H.",
+      "year": "2025",
+      "title": "Forgotten ‘American Ghosts’: Technical and Ethical Issues in Digitizing Oral Histories of Early Immigrant Communities.",
+      "venue": "In Tamara Štefanac & Anne Gilliland (Eds.), Archives and Traces of Migration (AToM): A Handbook of Best Practices (pp. 329–345). ICARUS Croatia.",
+      "url": "https://www.researchgate.net/publication/391903744_Archives_and_Traces_of_Migration_A_Handbook_of_Best_Practices",
+      "link_label": "View handbook"
+    },
+    {
+      "authors": "Lee, S., & Gilliland, A.",
+      "year": "2024",
+      "title": "Evolving Definitions of Hate Speech: The Impact of a Lack of Standardized Definitions.",
+      "venue": "In Isaac Sserwanga, Hideo Joho, Jie Ma, Preben Hansen, Dan Wu, Masanori Koizumi, & Anne J. Gilliland (Eds.), iConference 2024 Wisdom, Well-Being, Win-Win (pp. 141–156). Springer Cham.",
+      "url": "http://dx.doi.org/10.1007/978-3-031-57860-1_11"
+    },
+    {
+      "authors": "Lee, S.",
+      "year": "2024",
+      "title": "Navigating Biases Embedded Within the Algorithms and Displays Used by Different Search Engines.",
+      "venue": "In A. Solodkaya, A. Peterson, & M. Salisbury (Eds.), DLFTeach Toolkit Volume 4: Critical Digital Literacy. DLFteach Publications.",
+      "url": "https://dlfteach.pubpub.org/pub/sqa3ki79"
+    },
+    {
+      "authors": "Lee, S.",
+      "year": "2023",
+      "title": "Understanding the Intricacies of Academic Search Engines.",
+      "venue": "In Serena Dewar (Ed.), Digital Humanities Congress 2022. Sheffield, UK: The Digital Humanities Institute.",
+      "url": "https://www.dhi.ac.uk/books/dhc2022/understanding-the-intricacies-of-academic-search-engines/"
+    },
+    {
+      "authors": "Lee, S.",
+      "year": "2021",
+      "title": "Inherent Biases and Complexities of the Use of Historical Digital Archives: Bibliometric Analysis in Digital Archives of Holocaust Victims.",
+      "venue": "InterActions: UCLA Journal of Education and Information Studies, 17(1).",
+      "url": "https://doi.org/10.5070/D417154037"
+    }
+  ],
+  "talks": [
+    {
+      "authors": "Lee, S.",
+      "date": "October 2026",
+      "year": "2026",
+      "title": "Developing Scalable Educational Frameworks for Responsible AI Use in Florida Higher Education.",
+      "venue": "Presentation at the Florida Digital Humanities Consortium (FLDH) 2026 Conference, St. Petersburg, FL."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "September 2026",
+      "year": "2026",
+      "title": "AI Literacy for Navigating Bias.",
+      "venue": "Presentation at the Fall 2026 ACM Seminar (Applied & Computational Mathematics Seminar), FSU Department of Mathematics, Tallahassee, FL."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "September 2026",
+      "year": "2026",
+      "title": "AI Education Policy: A Comparative Thematic Analysis of K-12 Guidance in the United States and the United Kingdom.",
+      "venue": "Presentation at the Digital Humanities Congress 2026, Sheffield, UK."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "August 2026",
+      "year": "2026",
+      "title": "Can You Really Tell What’s AI? AI Literacy for Navigating Bias, Mis/disinformation, and Fake News.",
+      "venue": "Presentation at the AI Bootcamp, FSU Chemistry Department, Tallahassee, FL."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "August 2026",
+      "year": "2026",
+      "title": "Metadata-Conditioned Moral Grammars: How AI Companies Define Responsibility, Moral Language, Value Hierarchies, and Governance in AI Policy Documents.",
+      "venue": "Presentation at the 24th International Conference on Dublin Core and Metadata Initiative (DCMI) 2026, Seoul, South Korea."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "June 2026",
+      "year": "2026",
+      "title": "Libraries as Infrastructures of AI Literacy: Reframing AI Literacy Education as a Process-Oriented Practice.",
+      "venue": "Presentation at the 2026 Summer International Conference of the Korean Library and Information Science Society (K-LISS), Daegu, South Korea."
+    },
+    {
+      "authors": "Marty, P., Choi, G. W., Adams, J., Erlebacher, G., & Lee, S.",
+      "date": "March 2026",
+      "year": "2026",
+      "title": "Panel on AI and education.",
+      "venue": "Workshop delivered at the FSU SC Artificial Intelligence Seminar, Tallahassee, FL."
+    },
+    {
+      "authors": "Galloway, B., Green, L., & Lee, S.",
+      "date": "November 2025",
+      "year": "2025",
+      "title": "Youth, Identity, and Extremism.",
+      "venue": "Workshop delivered at the Pacific Council on International Policy."
+    },
+    {
+      "authors": "Daly, D., Jarrette, K., & Lee, S.",
+      "date": "November 2025",
+      "year": "2025",
+      "title": "Sketches for Skepticism Workshop.",
+      "venue": "Workshop delivered at iConference 2025, Bloomington, IN."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "May 2025",
+      "year": "2025",
+      "title": "Information as infrastructure, libraries as infrastructures of trust: Mis/disinformation & community needs during uncertain times.",
+      "venue": "Presentation at the Chinese American Librarians Association Southeast and Southwest Chapters Annual Virtual Conference 2025."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "April 2025",
+      "year": "2025",
+      "title": "Gatekeeping in Academic Publishing: The Impact of Sample Size Norms on Underfunded Individual Researchers.",
+      "venue": "Presentation at the 4th Annual UCLA European Languages and Transcultural Studies (ELTS) Graduate Conference, UCLA European Languages & Transcultural Studies, Canadian Studies Program, Los Angeles, CA."
+    },
+    {
+      "authors": "Lee, S., & Ong, C.",
+      "date": "December 2024",
+      "year": "2024",
+      "title": "The Social Media and the Spread of Hate (SMASH) Project.",
+      "venue": "Workshop delivered at the UCLA Information Studies Colloquium 2024, Los Angeles, CA."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "October 2024",
+      "year": "2024",
+      "title": "Fairness and Bias in AI Algorithms and Interfaces.",
+      "venue": "Workshop delivered at the 2024 ALISE ACADEMY (Workshop) Annual Conference, Portland, OR."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "August 2024",
+      "year": "2024",
+      "title": "Digital Pedagogy and The Post-Truth Society: Evaluating The Credibility of Information.",
+      "venue": "Presentation at the 10th Annual Digital Pedagogy Institute (DPI) Conference."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "August 2024",
+      "year": "2024",
+      "title": "Untold Stories, Untraveled Paths: Exploring Oral Histories & Micro-Mobility Innovations.",
+      "venue": "Workshop delivered at the Association for Information Science and Technology (ASIS&T)."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "August 2024",
+      "year": "2024",
+      "title": "Youth In The Digital Age: The Subtler Truth Of Adolescents’ Online Hate Speech and Cyberbullying and The Role of Digital Literacy.",
+      "venue": "Workshop delivered at the Pacific Neighborhood Consortium (PNC), Seoul, South Korea."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "March 2024",
+      "year": "2024",
+      "title": "Evolving Definitions of Hate Speech: The Impact of a Lack of Standardized Definitions.",
+      "venue": "Presentation at iConference 2024: Wisdom, Well-being, Win-win."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "July 2023",
+      "year": "2023",
+      "title": "A Journey from Many to One through the Early Korean American Community Archive.",
+      "venue": "Delivered at the UCLA Library International Council."
+    },
+    {
+      "authors": "Lee, S.",
+      "date": "September 2022",
+      "year": "2022",
+      "title": "Addressing Inherent Biases in Information Retrieval Systems of Digital Archives.",
+      "venue": "Presentation at the Digital Humanities Congress 2022, Sheffield, UK."
+    }
+  ]
 }
